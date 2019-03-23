@@ -4,11 +4,13 @@
 
 1. Install the OpenCV Developer package. On Ubuntu systems that's `sudo apt install libopencv-dev`
 
-2. `go get github.com/zikes/chrisify`
+2. `go get github.com/gurinderhans/chrisify`
 
 3. `go get github.com/lazywei/go-opencv`
 
-4. `cd $GOPATH/src/github.com/zikes/chrisify && go build`
+4. `cd $GOPATH/src/github.com/gurinderhans/chrisify && go build`
+
+5. To run while debugging you can use `go run main.go`
 
 ## Usage
 
